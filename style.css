@@ -1,0 +1,138 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Big+Shoulders+Display:wght@300&family=Bodoni+Moda&family=Edu+NSW+ACT+Foundation:wght@700&family=Kanit:wght@100&display=swap');
+
+#base-contact{
+  font-size: 32px;
+  display: flex;
+  flex-direction: column; 
+  margin: 20px;
+}
+
+#image-signature{
+  margin-top: 30vh; 
+  margin-left: 25vh;
+}
+
+#about-description{
+  font-size: 25px; 
+  font-family: 'Cinzel';
+  display: flex;
+  color: #605656;
+  letter-spacing: 0.075em;
+}
+
+#about-apresentation{
+  margin: 15vh; 
+  font-size: 51px;
+}
+
+#image-photomaria{
+  margin: 20px;
+  width: 440px;
+  height: 587px;
+}
+
+.footer{
+background-color: black;
+color: #f9dcdd;
+font-family: 'Bodoni Moda', serif;
+display: flex;
+  
+}
+
+.contact{
+background-color: #f9dcdd;
+font-family: 'Bodoni Moda', serif;
+display: flex;
+  
+}
+
+.experience{
+background-color: #f9dcdd;
+font-family: 'Bodoni Moda', serif;
+display: flex;
+}
+
+
+li{
+margin: 50px;
+font-size: 28px;
+}
+
+
+.triangulo-claro{
+width: 0px;
+height: 0px;
+border-bottom: 600px solid #f1e5e5;
+border-left: 400px solid transparent;
+border-right: 400px solid transparent;
+}
+
+
+.training{
+background-color: #f9dcdd;
+font-family: 'Bodoni Moda', serif;
+display: flex;
+
+}
+
+#segura-triangulo-sozinho{
+background-color: #f9dcdd;
+margin-left: 5vh;
+}
+
+#segura-triangulo{
+background-color: #f9dcdd;
+display: grid;
+grid-template-columns: 50% 50%;
+margin-left: 6vh;
+}
+
+.triangulo{
+width: 0px;
+height: 0px;
+border-bottom: 600px solid rgba(228, 203, 190, 1);
+border-left: 400px solid transparent;
+border-right: 400px solid transparent;
+}
+
+.portfolio{
+background-color: #f9dcdd;
+font-family: 'Bodoni Moda', serif;
+display: flex;
+}
+
+.about{
+background-color: #f9dcdd;
+display: grid;
+grid-template-columns: 50% 50%;
+font-family: 'Bodoni Moda', serif;
+}
+
+.name{
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+margin-top: 9rem;
+width: 498px;
+height: 40px;
+}
+
+.body{
+background-color: #f9dcdd;
+
+}
+.informations{
+font-size: 96px;
+font-family: 'Bodoni Moda', serif;
+}
+
+#start-base{
+background-color: #f9dcdd;
+display: grid;
+grid-template-columns: 50% 50%;
+
+
+}
+
